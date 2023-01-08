@@ -18,6 +18,7 @@ const goTopage = (id) => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       {/* <Image src="https://images-na.ssl-images-amazon.com/images/M/MV5BN2EyYzgyOWEtNTY2NS00NjRjLWJiNDYtMWViMjg5MWZjYjgzXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg" alt="pic" width={100} height={100} /> */}
+      <h1>Welcome to my movies app</h1>
       <div style={{display:"grid",gridTemplateColumns:"repeat(4,1fr)",gap:"12px",marginTop:"40px"}}>
         {movies?.map((item)=>{
           return (
