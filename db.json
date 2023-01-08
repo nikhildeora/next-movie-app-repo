@@ -1,0 +1,25 @@
+{
+  "watchlist": [
+    {
+      "title": "Breaking Bad",
+      "runtime": "49 min",
+      "release": "20 Jan 2008",
+      "language": "English, Spanish",
+      "id": 2
+    },
+    {
+      "title": "Game of Thrones",
+      "runtime": "56 min",
+      "release": "17 Apr 2011",
+      "language": "English",
+      "id": 3
+    },
+    {
+      "title": "I Am Legend",
+      "runtime": "101 min",
+      "release": "14 Dec 2007",
+      "language": "English",
+      "id": 4
+    }
+  ]
+}
